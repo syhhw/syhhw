@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there, I'm Silas Alves! 👦
 
-<!--
-**syhhw/syhhw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **I am a begginer Android Developer from Brazil**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at **just doing my hobbies.**
+- 🌱 I’m currently learning **Python** and **Java**.
+- 📫 How to reach me: **[HastFrin](https://t.me/hastfrin)** on Telegram.
+- 💬 Ask me about **Android** and **Animes**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stats:**
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=syhhw&show_icons=true&theme=onedark)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syhhw&layout=compact)](https://github.com/syhhw/github-readme-stats)
+
+
+
+
+
+
+
+
+
