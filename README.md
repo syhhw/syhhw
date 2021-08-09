@@ -13,7 +13,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syhhw&layout=compact)](https://github.com/syhhw/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syhhw&layout=compact&theme=onedark)](https://github.com/syhhw/github-readme-stats)
 
 
 
