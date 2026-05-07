@@ -1,25 +1,37 @@
-## Hi there, I'm Silas Alves! 👦
+<h1 align="center">Hi there, I'm Silas Alves! 👦</h1>
 
-### **I am a begginer Android Developer from Brazil**
+<h3 align="center">I am a beginner Android Developer from Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently working at **just doing my hobbies.**
-- 🌱 I’m currently learning **Python** and **Java**.
-- 📫 How to reach me: **[HastFrin](https://t.me/hastfrin)** on Telegram.
-- 💬 Ask me about **Android** and **Animes**.
+<p align="center">
+  <a href="https://github.com/syhhw">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Android+Developer;Learning+Python+%26+PHP;Anime+Fan" alt="Typing SVG" />
+  </a>
+</p>
 
-**Stats:**
+---
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=syhhw&show_icons=true&theme=onedark)
+### 👨‍💻 About Me
 
+- 🔭 I’m currently working on **my personal hobbies and projects.**
+- 🌱 I’m currently learning **Python** and **PHP** (and always improving in **Java/Android**).
+- 📫 How to reach me: **[ACKER](https://t.me/AckerOFC)** on Telegram.
+- 💬 Ask me about: **Android**, **Animes**, and tech in general.
 
+### 🛠️ Tech Stack & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syhhw&layout=compact&theme=onedark)](https://github.com/syhhw/github-readme-stats)
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syhhw&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="My GitHub stats" />
+</p>
 
-
-
-
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhhw&layout=compact&theme=onedark" alt="Top Langs" />
+</p>
