@@ -29,13 +29,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syhhw&show_icons=true&theme=onedark&v=1" alt="My GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syhhw&layout=compact&theme=onedark&v=1" alt="Top Langs" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=syhhw&theme=onedark" alt="GitHub Streak" />
 </p>
